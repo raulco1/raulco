@@ -1,3 +1,24 @@
+## Welcome 
+
+I made this through GitHub pages as a rough draft of how my personal page should look.
+
+
+# About Me
+
+Hi! My name is Raul Correa I am a Data Analyst who is interested in ______. I graduated from University of California, San Diego with a Bachelor of Science in Physics.
+
+In my time in college I work on product mangement and implementation of projects . 
+
+While working on projects I became more interested in the field of Data Science and So I taught myself _______.
+
+```markdown
+Syntax highlighted code block
+
+I am skill in:
+-
+-
+________.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/raulco1/website_builder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
